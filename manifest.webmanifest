@@ -1,0 +1,10 @@
+{
+  "name": "教师招聘文学素养刷题 Pro",
+  "short_name": "文学素养Pro",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5fb",
+  "theme_color": "#6657e8",
+  "lang": "zh-CN",
+  "description": "教师招聘文学素养刷题网站，含基础题、高阶综合题、错题本和模拟考试。"
+}
